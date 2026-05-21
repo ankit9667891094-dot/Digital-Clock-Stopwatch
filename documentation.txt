@@ -1,0 +1,29 @@
+DIGITAL CLOCK & STOPWATCH DOCUMENTATION
+
+Name: Ankit
+
+Project Name:
+Digital Clock & Stopwatch
+
+Technology Used:
+HTML, CSS, JavaScript
+
+Project Description:
+This project is a digital clock and stopwatch web application created using HTML, CSS and JavaScript.
+
+Features:
+- Live Digital Clock
+- Current Date
+- Stopwatch
+- Start Button
+- Pause Button
+- Reset Button
+- Responsive Design
+- Animated Background
+
+How The Project Works:
+The digital clock updates every second using JavaScript Date functions.
+The stopwatch starts, pauses and resets using button controls.
+
+Conclusion:
+This project helped in learning JavaScript timing functions, frontend design and responsive layouts.
